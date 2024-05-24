@@ -30,11 +30,11 @@ arr.forEach(val=>{
 })  
 
 let img_array = [
-    "/images/5044959301-034256da8e-k-1-cropped-1576469925.jpg",
-    "/images/lakshadweep-islands-2-768x512.jpg",
-    "/images/pexels-photo-1724430.webp",
-    "/images/goa_two.jpg",
-    "/images/5044959301-034256da8e-k-1-cropped-1576469925.jpg"
+    "5044959301-034256da8e-k-1-cropped-1576469925.jpg",
+    "lakshadweep-islands-2-768x512.jpg",
+    "pexels-photo-1724430.webp",
+    "goa_two.jpg",
+    "5044959301-034256da8e-k-1-cropped-1576469925.jpg"
 ];
 
 let novel = document.querySelector(".noval");
