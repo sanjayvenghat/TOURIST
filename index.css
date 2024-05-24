@@ -318,23 +318,23 @@ footer
 } 
 .img_one 
 {
-    background-image: url("/images/lakshadweep-islands-2-768x512.jpg");
+    background-image: url("lakshadweep-islands-2-768x512.jpg");
 }
 .image_two
 {
-    background-image: url("/images/hqdefault.jpg");
+    background-image: url("hqdefault.jpg");
 }
 .image_three
 {
-    background-image: url("/images/pexels-photo-1724430.webp");
+    background-image: url("pexels-photo-1724430.webp");
 } 
 .image_three
 {
-    background-image: url("/images/goa_housetwo.jpg");
+    background-image: url("goa_housetwo.jpg");
 } 
 .image_four
 {
-    background-image: url("/images/5044959301-034256da8e-k-1-cropped-1576469925.jpg"); 
+    background-image: url("5044959301-034256da8e-k-1-cropped-1576469925.jpg"); 
 
 }
 .image_three
@@ -343,15 +343,15 @@ footer
 }
 .image_four
 {
-    background-image: url("/images/goa_house.jpeg");
+    background-image: url("goa_house.jpeg");
 } 
 .image_five
 {
-    background-image: url("/images/goa_housetwo.jpg");
+    background-image: url("goa_housetwo.jpg");
 } 
 .image_six
 {
-    background-image: url("/images/goa_3.jpg");
+    background-image: url("goa_3.jpg");
 } 
 .loca 
 {
